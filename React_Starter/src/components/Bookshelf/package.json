@@ -1,0 +1,6 @@
+{
+  "name": "Bookshelf",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Bookshelf.js"
+}
